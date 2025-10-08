@@ -22,7 +22,7 @@ pip install flask sqlite3
 ## Установка и запуск
  1. Клонируйте репозиторий:
 
-git clone https://github.com/kirillbelov67/kirill-belov.git
+git clone [https://github.com/kirillbelov67/kirill-belov.git](https://github.com/kirillbelov67/ku.git)
 
  2. Установите зависимости:
 
@@ -94,7 +94,7 @@ Template Engine: Jinja2 (встроенный в Flask)
 
 
 Ваше имя или название команды – [kirillbelov326@gmail.com](mailto:kirillbelov326@gmail.com)
-* Ссылка на проект: [https://github.com/kirillbelov67/kirill-belov.git](https://github.com/kirillbelov67/kirill-belov.git)
+* Ссылка на проект: [[https://github.com/kirillbelov67/kirill-belov.git](https://github.com/kirillbelov67/ku.git)]([https://github.com/kirillbelov67/kirill-belov.git](https://github.com/kirillbelov67/ku.git))
 
 
 
